@@ -1,0 +1,8 @@
+This is the Private Chanel Bot. With Me You can create private Chanels.
+Right now i am useless but with the following commands you can configure me.
+
+- >configure prefix <'prefix'>
+- >configure text-channel <#text-channel>
+- >configure adminrole <@adminrole>
+- >configure privateChannelCategory <'#privatChanelCategoryID'
+- >configure accsesRoles <@accsesRoles>
